@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "react-scripts build",
-    "test": "react-scripts test --watchAll=false"
+    "test": "react-scripts test --watchAll=false",
+    "start":"node server.js"
   },
   "keywords": [],
   "author": "",
