@@ -1,0 +1,29 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build artifacts
+build/
+dist/
+tmp/
+
+# MySQL and database files
+*.sql
+*.db
+mysql_data/
+
+# Application logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Git internal files
+/.git/
